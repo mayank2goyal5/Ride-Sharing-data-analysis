@@ -49,9 +49,14 @@ Various SQL queries were written to analyze the dataset, including:
 
 Two dashboard pages were created:
 
-### Page 1 – Overview
-- Total rides
-- Total revenue
+### Dashboard preview
+
+
+## Page 1 - overview
+![Dashboard page 1](Dashboard_images /Screenshot (7).png)
+
+## Page 2 - Advanced insights
+![Dashboard page 2](Dashboard_images/Screenshot (8).png)
 
 
 ride-sharing-data-analysis
